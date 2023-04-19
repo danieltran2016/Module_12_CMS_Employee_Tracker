@@ -69,4 +69,8 @@ SOFTWARE.
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 ![Danny](https://img.shields.io/badge/Danny-myREADME-brightgreen)
     
+## Video
+
+Video Demo:
+[Employee Database](https://drive.google.com/file/d/1vMw7wXDoq3XiDos22styBs3cjV3e1UoB/view?usp=sharing)
 
